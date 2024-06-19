@@ -32,14 +32,14 @@
 
 <h3>My (current) TechStack:</h3>
 <div id="tech-stack-icons" style="display: flex; gap: 10px;">
-    <img src="./images/react.svg" style="max-width: 3em">
-    <img src="./images/nodeJS.svg" style="max-width: 3em">
-    <img src="./images/nextJS.svg" style="max-width: 3em">
-    <img src="./images/postgreSQL.svg" style="max-width: 3em">
-    <img src="./images/mongoDB.svg" style="max-width: 3em">
-    <img src="./images/javascript.svg" style="max-width: 3em">
-    <img src="./images/html.svg" style="max-width: 3em">
-    <img src="./images/css.svg" style="max-width: 3em">
+    <img src="./images/react.svg" style="max-width: 50px">
+    <img src="./images/nodeJS.svg" style="max-width: 50px">
+    <img src="./images/nextJS.svg" style="max-width: 50px">
+    <img src="./images/postgreSQL.svg" style="max-width: 50px">
+    <img src="./images/mongoDB.svg" style="max-width: 50px">
+    <img src="./images/javascript.svg" style="max-width: 50px">
+    <img src="./images/html.svg" style="max-width: 50px">
+    <img src="./images/css.svg" style="max-width: 50px">
 </div>
 
 <h3>My Stats:</h3>
