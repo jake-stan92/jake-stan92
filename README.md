@@ -1,4 +1,54 @@
-### Hi there 👋
+<style>h1,h2,h4 { border: 0; margin-top: 0; margin-bottom: 5px; } </style>
+<style>#tech-stack-icons img {
+  max-width: 3em;
+} </style>
+
+<!-- <link rel="stylesheet" href="devicon.min.css"> -->
+<div id="header" align="center">
+    <h1>Jake Stanier</h1>
+    <h2>Junior Software Devloper</h2>
+    <div id="badges" style="margin-bottom: 10px">
+    <a href="https://www.linkedin.com/in/jake-stanier-017267283/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.jakestanier.com">
+        <img src="https://img.shields.io/badge/Portfolio_Site-purple?logo=appveyor&logoColor=white&style=for-the-badge" alt="Portfolio Site Badge"/>
+    </a>
+    <!-- <a href="./Jake Stanier - CV.pdf" download>
+        <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV Badge"/>
+    </a> -->
+    </div>
+</div>
+<h3>About Me</h3>
+<p>Hi There 👋 I'm Jake. A Junior Software Developer with a passion for solving real world problems with technology! I enjoy the challenge of continuous learning and I am currently seeking my first role in the industry.</p>
+
+<h3>Personal Projects 🤖</h3>
+<ul style="margin-bottom: 15px">
+    <li>
+        <a href="https://stravajs.netlify.app/">StravaJS</a><p>Strava JS ustilises the <span><a href="https://developers.strava.com/docs/reference/">Strava API</a></span> to collect and display run data in an easily digestible format. It was developed to help keep track of a group of friends 10k per week challenge.</p>
+    </li>
+    <li>
+        <a href="https://github.com/jake-stan92/timezone">TimeZone</a><p>Timezone was built to help a relative manage their global client meetings. Built in Python, Timezone calculates different times in selected timezones relative to a given or current time.</p>
+    </li>
+</ul>
+
+<h3>Lets Collab! 🙌</h3>
+<p>I am always looking to sharpen my skills and learn new ones. If you have a project you want to work on together or have a far out idea, let me know and we can get the ball rolling! 😀</p>
+
+<h3>My (current) TechStack:</h3>
+<div id="tech-stack-icons" style="display: flex; gap: 10px;">
+    <img src="./images/react.svg">
+    <img src="./images/nodeJS.svg">
+    <img src="./images/nextJS.svg">
+    <img src="./images/postgreSQL.svg">
+    <img src="./images/mongoDB.svg">
+    <img src="./images/javascript.svg">
+    <img src="./images/html.svg">
+    <img src="./images/css.svg">
+</div>
+
+<h3>My Stats:</h3>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jake-stan92&border_radius=5" alt="GitHub Streak" /></a>
 
 <!--
 **jake-stan92/jake-stan92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
