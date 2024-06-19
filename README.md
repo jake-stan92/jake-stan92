@@ -31,15 +31,15 @@
 <p>I am always looking to sharpen my skills and learn new ones. If you have a project you want to work on together or have a far out idea, let me know and we can get the ball rolling! 😀</p>
 
 <h3>My (current) TechStack:</h3>
-<div id="tech-stack-icons" style="display: flex; gap: 10px;">
-    <img src="./images/react.svg" style="max-width: 50px">
-    <img src="./images/nodeJS.svg" style="max-width: 50px">
-    <img src="./images/nextJS.svg" style="max-width: 50px">
-    <img src="./images/postgreSQL.svg" style="max-width: 50px">
-    <img src="./images/mongoDB.svg" style="max-width: 50px">
-    <img src="./images/javascript.svg" style="max-width: 50px">
-    <img src="./images/html.svg" style="max-width: 50px">
-    <img src="./images/css.svg" style="max-width: 50px">
+<div id="tech-stack-icons">
+    <img src="./images/react.svg" style="width: 50px">
+    <img src="./images/nodeJS.svg" style="width: 50px">
+    <img src="./images/nextJS.svg" style="width: 50px">
+    <img src="./images/postgreSQL.svg" style="width: 50px">
+    <img src="./images/mongoDB.svg" style="width: 50px">
+    <img src="./images/javascript.svg" style="width: 50px">
+    <img src="./images/html.svg" style="width: 50px">
+    <img src="./images/css.svg" style="width: 50px">
 </div>
 
 <h3>My Stats:</h3>
