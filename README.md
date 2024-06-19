@@ -1,12 +1,7 @@
-<style>h1,h2,h4 { border: 0; margin-top: 0; margin-bottom: 5px; } </style>
-<style>#tech-stack-icons img {
-  max-width: 3em;
-} </style>
-
 <!-- <link rel="stylesheet" href="devicon.min.css"> -->
 <div id="header" align="center">
-    <h1>Jake Stanier</h1>
-    <h2>Junior Software Devloper</h2>
+    <h1 style="border: 0; margin-top: 0; margin-bottom: 5px;">Jake Stanier</h1>
+    <h2 style="border: 0; margin-top: 0; margin-bottom: 5px;">Junior Software Devloper</h2>
     <div id="badges" style="margin-bottom: 10px">
     <a href="https://www.linkedin.com/in/jake-stanier-017267283/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
@@ -37,14 +32,14 @@
 
 <h3>My (current) TechStack:</h3>
 <div id="tech-stack-icons" style="display: flex; gap: 10px;">
-    <img src="./images/react.svg">
-    <img src="./images/nodeJS.svg">
-    <img src="./images/nextJS.svg">
-    <img src="./images/postgreSQL.svg">
-    <img src="./images/mongoDB.svg">
-    <img src="./images/javascript.svg">
-    <img src="./images/html.svg">
-    <img src="./images/css.svg">
+    <img src="./images/react.svg" style="max-width: 3em">
+    <img src="./images/nodeJS.svg" style="max-width: 3em">
+    <img src="./images/nextJS.svg" style="max-width: 3em">
+    <img src="./images/postgreSQL.svg" style="max-width: 3em">
+    <img src="./images/mongoDB.svg" style="max-width: 3em">
+    <img src="./images/javascript.svg" style="max-width: 3em">
+    <img src="./images/html.svg" style="max-width: 3em">
+    <img src="./images/css.svg" style="max-width: 3em">
 </div>
 
 <h3>My Stats:</h3>
