@@ -20,13 +20,13 @@
 <h3>Personal Projects 🤖</h3>
 <ul style="margin-bottom: 15px">
     <li>
-        <a href="https://the-run-club.netlify.app/">The Run Club</a><p>The Run Club is the latest iteration of 'StravaJS'. Implementing Strava's <span><a href="https://developers.strava.com/docs/authentication/">OAuth technology</a></span>, the app allows users to authenticate via Strava for faster, seamless data visualisation. Submitting the app to Strava themselves allowed me to obtain increased capacity for up to 1000 users.</p>
+        <a target="_blank" href="https://the-run-club.netlify.app/">The Run Club</a><p>The Run Club is the latest iteration of 'StravaJS'. Implementing Strava's <span><a target="_blank" href="https://developers.strava.com/docs/authentication/">OAuth technology</a></span>, the app allows users to authenticate via Strava for faster, seamless data visualisation. Submitting the app to Strava themselves allowed me to obtain increased capacity for up to 1000 users.</p>
     </li>
     <li>
-        <a href="https://stravajs.netlify.app/">StravaJS</a><p>Strava JS ustilises the <span><a href="https://developers.strava.com/docs/reference/">Strava API</a></span> to collect and display run data in an easily digestible format. It was developed to help keep track of a group of friends 10k per week challenge.</p>
+        <a target="_blank" href="https://stravajs.netlify.app/">StravaJS</a><p>Strava JS ustilises the <span><a target="_blank" href="https://developers.strava.com/docs/reference/">Strava API</a></span> to collect and display run data in an easily digestible format. It was developed to help keep track of a group of friends 10k per week challenge.</p>
     </li>
     <li>
-        <a href="https://github.com/jake-stan92/timezone">TimeZone</a><p>Timezone was built to help a relative manage their global client meetings. Built in Python, Timezone calculates different times in selected timezones relative to a given or current time.</p>
+        <a target="_blank" href="https://github.com/jake-stan92/timezone">TimeZone</a><p>Timezone was built to help a relative manage their global client meetings. Built in Python, Timezone calculates different times in selected timezones relative to a given or current time.</p>
     </li>
 </ul>
 
