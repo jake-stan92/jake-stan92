@@ -42,9 +42,6 @@
     <img src="./images/css.svg" style="width: 50px">
 </div>
 
-<h3>My Stats:</h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jake-stan92&border_radius=5" alt="GitHub Streak" /></a>
-
 <!--
 **jake-stan92/jake-stan92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
